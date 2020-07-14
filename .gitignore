@@ -1,3 +1,11 @@
+## SkeletonEngine artifacts
+bin/
+bin-int/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
 ## OSX artifacts
 .DS_Store
 
